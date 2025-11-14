@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class TabuadaVetor {
+public class ExVetores {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
  
