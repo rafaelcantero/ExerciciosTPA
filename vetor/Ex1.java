@@ -22,6 +22,6 @@ public class ExVetores {
             System.out.println("B[" + i + "] = " + B[i]);
         }
  
-        sc.close();
+        ler.close();
     }
 }
